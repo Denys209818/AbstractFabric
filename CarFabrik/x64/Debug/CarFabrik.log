@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Denis\Desktop\Новая папка\CarFabrik\CarFabrik\Main.cpp(14,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Denis\Desktop\Новая папка\CarFabrik\CarFabrik\Main.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CarFabrik.vcxproj -> C:\Users\Denis\Desktop\Новая папка\CarFabrik\x64\Debug\CarFabrik.exe
