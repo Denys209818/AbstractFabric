@@ -13,7 +13,8 @@
 void main() 
 {
 	srand(time(0));
-	ICarFabrik* c = new ZhygulFabrik(); // or ZhygulFabrik
+	ICarFabrik* c = new ZhygulFabrik(); // or BmwFabric
+	Fabrik
 	Motor* cm = c->CreateMotor();
 	Korpus* ck = c->CreateKorpus();
 	//Show Motor options
